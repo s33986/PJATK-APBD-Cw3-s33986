@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M8GG9bEGKuA=",
+  "dgSpecHash": "pcI4wr47okY=",
   "success": true,
   "projectFilePath": "/Users/piotrjasinski/RiderProjects/LinqConsoleLab.PL/LinqConsoleLab.PL.csproj",
-  "expectedPackageFiles": [
-    "/Users/piotrjasinski/.nuget/packages/microsoft.netcore.app.ref/9.0.13/microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
-    "/Users/piotrjasinski/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.13/microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
-    "/Users/piotrjasinski/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.13/microsoft.netcore.app.host.osx-arm64.9.0.13.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
