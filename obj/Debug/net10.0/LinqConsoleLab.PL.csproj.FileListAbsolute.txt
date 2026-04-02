@@ -1,0 +1,15 @@
+/Users/piotrjasinski/RiderProjects/LinqConsoleLab.PL/bin/Debug/net10.0/LinqConsoleLab.PL
+/Users/piotrjasinski/RiderProjects/LinqConsoleLab.PL/bin/Debug/net10.0/LinqConsoleLab.PL.deps.json
+/Users/piotrjasinski/RiderProjects/LinqConsoleLab.PL/bin/Debug/net10.0/LinqConsoleLab.PL.runtimeconfig.json
+/Users/piotrjasinski/RiderProjects/LinqConsoleLab.PL/bin/Debug/net10.0/LinqConsoleLab.PL.dll
+/Users/piotrjasinski/RiderProjects/LinqConsoleLab.PL/bin/Debug/net10.0/LinqConsoleLab.PL.pdb
+/Users/piotrjasinski/RiderProjects/LinqConsoleLab.PL/obj/Debug/net10.0/LinqConsoleLab.PL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piotrjasinski/RiderProjects/LinqConsoleLab.PL/obj/Debug/net10.0/LinqConsoleLab.PL.AssemblyInfoInputs.cache
+/Users/piotrjasinski/RiderProjects/LinqConsoleLab.PL/obj/Debug/net10.0/LinqConsoleLab.PL.AssemblyInfo.cs
+/Users/piotrjasinski/RiderProjects/LinqConsoleLab.PL/obj/Debug/net10.0/LinqConsoleLab.PL.csproj.CoreCompileInputs.cache
+/Users/piotrjasinski/RiderProjects/LinqConsoleLab.PL/obj/Debug/net10.0/LinqConsoleLab.PL.sourcelink.json
+/Users/piotrjasinski/RiderProjects/LinqConsoleLab.PL/obj/Debug/net10.0/LinqConsoleLab.PL.dll
+/Users/piotrjasinski/RiderProjects/LinqConsoleLab.PL/obj/Debug/net10.0/refint/LinqConsoleLab.PL.dll
+/Users/piotrjasinski/RiderProjects/LinqConsoleLab.PL/obj/Debug/net10.0/LinqConsoleLab.PL.pdb
+/Users/piotrjasinski/RiderProjects/LinqConsoleLab.PL/obj/Debug/net10.0/LinqConsoleLab.PL.genruntimeconfig.cache
+/Users/piotrjasinski/RiderProjects/LinqConsoleLab.PL/obj/Debug/net10.0/ref/LinqConsoleLab.PL.dll
