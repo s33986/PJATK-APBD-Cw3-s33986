@@ -20,6 +20,7 @@ public sealed class ZadaniaLinq
             .Where(s => s.Miasto == "Warsaw")
             .Select(s => $"{s.NumerIndeksu}, {s.Imie} {s.Nazwisko}, {s.Miasto}"
         );
+        
         return z01;
     }
 
